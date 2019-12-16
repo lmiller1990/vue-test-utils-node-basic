@@ -1,0 +1,13 @@
+{
+  "name": "vue-test-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/test-utils": "^1.0.0-beta.30",
+    "jsdom": "^15.2.1",
+    "jsdom-global": "^3.0.2",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
